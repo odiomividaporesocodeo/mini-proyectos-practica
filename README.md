@@ -5,6 +5,7 @@ Repository to share my Python mini‑projects and practice exercises. I use this
 My name is **Fermín Longoni**, an Argentinian Software Development student.  
 I’m 18 years old and deeply interested in learning about **Python** and **Cybersecurity**.  
 I enjoy building small projects, experimenting with code, and improving my skills.
+All these projects were built during my first week of learning Python.
 
 ## 📚 Goals
 - Strengthen my Python fundamentals through practical exercises.
